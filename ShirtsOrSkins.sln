@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShirtsOrSkins", "ShirtsOrSkins\ShirtsOrSkins.csproj", "{F13066F2-CD64-4AA7-935E-ED9467B197C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShirtsOrSkins.AcceptanceTests", "ShirtsOrSkins.AcceptanceTests\ShirtsOrSkins.AcceptanceTests.csproj", "{A71D8162-5437-47DC-BA1C-A58D50F2FA69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F13066F2-CD64-4AA7-935E-ED9467B197C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F13066F2-CD64-4AA7-935E-ED9467B197C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F13066F2-CD64-4AA7-935E-ED9467B197C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F13066F2-CD64-4AA7-935E-ED9467B197C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A71D8162-5437-47DC-BA1C-A58D50F2FA69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A71D8162-5437-47DC-BA1C-A58D50F2FA69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A71D8162-5437-47DC-BA1C-A58D50F2FA69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A71D8162-5437-47DC-BA1C-A58D50F2FA69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

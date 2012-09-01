@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="F13066F2-CD64-4AA7-935E-ED9467B197C9" ModuleId="ShirtsOrSkins" />
+  <Module PersistentId="A71D8162-5437-47DC-BA1C-A58D50F2FA69" ModuleId="ShirtsOrSkins.AcceptanceTests" />
+</Modules>
